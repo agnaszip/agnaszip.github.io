@@ -20,10 +20,10 @@ timezone: Asia/Seoul
 
 title: agnaszip # the main title
 
-tagline: 천방지축 어리둥절  # it will display as the sub-title
+tagline: dddd  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  ㅁㅁㅁㅁ
+  ffff
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://agnaszip.github.io"
