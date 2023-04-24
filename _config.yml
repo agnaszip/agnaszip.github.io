@@ -20,10 +20,10 @@ timezone: Asia/Seoul
 
 title: agnaszip # the main title
 
-tagline: dddd  # it will display as the sub-title
+tagline: 천방지축 어리둥절 빙글빙글 돌아가는  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  ffff
+  공부공부
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://agnaszip.github.io"
@@ -38,14 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: agnaszip
-  email: aaaa@aaaa.com # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+  email: kanga98106@gmail.com # change to your email address
 
 google_site_verification: # fill in to your verification string
 
